@@ -8,7 +8,7 @@ I've always been the kind of person who wants to understand **why** and **how** 
 
 I'm currently a second-year Computer Science student at UWE Bristol, with a background in cybersecurity. I've been exploring different areas of software development, from programming in C and building web applications to experimenting with automation. I enjoy getting into the details and figuring things out for myself.
 
-I've also had the chance to work on real-world projects, both independently and alongside other developers. Not everything I work on ends up on GitHub, but this is where I share some of the things I've built, learnt from and occasionally spent far too long debugging.
+I've also had the chance to work on real-world projects, both independently and alongside other developers. **Not everything I work on ends up on GitHub**, but this is where I share some of the things I've built, learnt from and occasionally spent far too long debugging.
 
 If I'm not at my laptop, you'll probably find me playing music, taking photos or travelling.
 
