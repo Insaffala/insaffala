@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insaf-fala/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_projects-DB2777?style=flat-square&logo=github&logoColor=white)](https://github.com/insaffala?tab=repositories)
 
-I've always been the kind of person who wants to understand **why** and **how** things work, rather than just knowing that they do. Though, a word of advice: **don't do that too often in computer science unless you want to drive yourself crazy (or go bald early).**
+I've always been the kind of person who wants to understand **why** and **how** things work, rather than just knowing that they do. Though, a word of advice: **don't do that too often in cs unless you want to drive yourself crazy (or go bald early).**
 
 I'm currently a second-year Computer Science student at UWE Bristol, with a background in cybersecurity. I've been exploring different areas of software development, from programming in C and building web applications to experimenting with automation. I enjoy getting into the details and figuring things out for myself.
 
