@@ -1,5 +1,5 @@
 
-# Hey, I'm Insaf :) !
+# Hey, I'm Insaf :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insaf-fala/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_projects-DB2777?style=flat-square&logo=github&logoColor=white)](https://github.com/insaffala?tab=repositories)
